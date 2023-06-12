@@ -1,4 +1,4 @@
-package com.humber.j2ee;
+package com.dennx2.j2ee;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
