@@ -1,4 +1,4 @@
-package com.humber.j2ee;
+package com.dennx2.j2ee;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
